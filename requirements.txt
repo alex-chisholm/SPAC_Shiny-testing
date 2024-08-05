@@ -102,7 +102,7 @@ numpy
 omnipath==1.0.8
 overrides==7.7.0
 packaging==24.1
-pandas==1.4.3
+pandas
 pandocfilters==1.5.1
 param==2.1.1
 parso==0.8.4
